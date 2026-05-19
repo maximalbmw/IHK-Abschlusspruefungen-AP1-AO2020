@@ -1,4 +1,4 @@
-# IHK-Abschlusspruefungen-AP1-AO2020
+# IHK-Abschlussprüfungen-AP1-AO2020
 
 ## weitere Prüfungen folgen
 Es folgen in der nächsten Zeit alle weiteren FiSi Prüfungen der AP2 (Schriftlich) der Ausbildungsordnung 2020 (AO 2020) folgen in kürze!
