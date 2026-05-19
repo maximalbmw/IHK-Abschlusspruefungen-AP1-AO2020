@@ -215,11 +215,12 @@ Kaufleute für IT-Systemmanagement beraten Kunden zu IT-Produkten und Dienstleis
 
 
 ## Prüfungen
-Die Abschlussprüfung zum Fachinformatiker für Systemintegration ist in zwei Teile gegliedert. Teil 1 findet nach etwa 18 Monaten statt und prüft grundlegende Kenntnisse zum Einrichten eines IT-gestützten Arbeitsplatzes. Er zählt mit 20 Prozent in die Gesamtnote.
+Die Abschlussprüfung Teil 1 ist für alle IT-Ausbildungsberufe der IHK identisch und findet nach 18 Monaten statt. Sie zählt 20 Prozent zur Gesamtnote und dauert 90 Minuten.
 
-Teil 2 erfolgt am Ende der Ausbildung und besteht aus drei Bereichen. Das Kernstück ist eine betriebliche Projektarbeit, bei der ein reales IT-Projekt im Umfang von 40 Stunden eigenständig durchgeführt, dokumentiert und vor dem Prüfungsausschuss präsentiert wird. Dieser Teil macht 50 Prozent der Gesamtnote aus. Ergänzend werden zwei schriftliche Prüfungen abgelegt, die zusammen 30 Prozent ausmachen und Themen wie Systemintegration, Wirtschafts- und Sozialkunde sowie fachübergreifende Inhalte abdecken.
+Der Prüfungsbereich heißt „Einrichten eines IT-gestützten Arbeitsplatzes". Die Aufgaben sind praxisbezogen und in betriebliche Szenarien eingebettet. Geprüft werden die gemeinsamen Kernqualifikationen aller IT-Berufe: Netzwerktechnik, IT-Sicherheit, Datenschutz, Hardware, Virtualisierung, Projektmanagement und Wirtschaftlichkeitsberechnung.
 
-Beide Teile zusammen ergeben die IHK-Abschlussnote, mit der die Ausbildung offiziell abgeschlossen wird.
+Das Format besteht aus offenen und Multiple-Choice-Aufgaben, aufgeteilt in vier bis fünf Handlungsschritte mit jeweils mehreren Teilaufgaben.
+
 
 ## Notenrechner
 **Link:** https://ausbildung-in-der-it.de/notenrechner
