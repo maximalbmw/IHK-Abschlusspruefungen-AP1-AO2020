@@ -7,6 +7,9 @@ Es folgen in der nächsten Zeit alle weiteren FiSi Prüfungen der AP2 (Schriftli
 Repo mit allen AP2 Prüfungen, inkl. WiSo-Teilen mit Lösungen, für den Ausbildungsberuf Fachinformatiker für Systemintegration.
 **Link zum Repo:** https://github.com/maximalbmw/IHK-Abschlusspruefungen-AP2-FiSi-AO2020
 
+## Betriebliche Projektarbeit, Präsentation & Fachgespräch
+**Link zum Repo:** https://github.com/maximalbmw/IHK-FiSi-Abschlussprojekt-Doku-Fachgespraech
+
 ## IHK IT-Ausbildungsberufe im Überblick
 
 ### Fachinformatiker für Systemintegration (FiSi)
